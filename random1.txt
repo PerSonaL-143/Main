@@ -1,1 +1,1 @@
-
+FBAN/FB4A;FBAV/440.0.0.45.48;FBBV/438131653;FBRV/0;FBPN/com.facebook.katana;FBLC/ms_MY;FBCR/Grameenphone;FBMF/A5;FBBD/A5;FBDV/Samsung;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;
